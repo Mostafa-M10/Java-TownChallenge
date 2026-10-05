@@ -1,0 +1,45 @@
+ Banbridge      6 Coleraine      7 
+ Ballymena      9 Belfast        0 
+ Newry          1 Enniskillen    2 
+ Portadown      2 Bangor         3 
+Home Wins: 1, Away Wins: 3, Draws: 0
+ Banbridge      2 Coleraine      0 
+ Ballymena      1 Belfast        1 
+ Newry          0 Enniskillen    3 
+ Portadown      8 Bangor         4 
+Home Wins: 3, Away Wins: 4, Draws: 1
+ Banbridge      6 Coleraine      5 
+ Ballymena      2 Belfast        6 
+ Newry          0 Enniskillen    5 
+ Portadown      8 Bangor         8 
+Home Wins: 1, Away Wins: 2, Draws: 1
+ Banbridge      5 Coleraine      0 
+ Ballymena      2 Belfast        8 
+ Newry          9 Enniskillen    2 
+ Portadown      5 Bangor         9 
+Home Wins: 3, Away Wins: 4, Draws: 1
+ Banbridge      0 Coleraine      1 
+ Ballymena      7 Belfast        0 
+ Newry          9 Enniskillen    6 
+ Portadown      9 Bangor         9 
+Home Wins: 5, Away Wins: 5, Draws: 2
+ Banbridge      7 Coleraine      4 
+ Ballymena      2 Belfast        1 
+ Newry          0 Enniskillen    7 
+ Portadown      9 Bangor         7 
+Home Wins: 3, Away Wins: 1, Draws: 0
+ Banbridge      7 Coleraine      0 
+ Ballymena      7 Belfast        3 
+ Newry          5 Enniskillen    8 
+ Portadown      8 Bangor         6 
+Home Wins: 6, Away Wins: 2, Draws: 0
+ Banbridge      0 Coleraine      5 
+ Ballymena      9 Belfast        4 
+ Newry          6 Enniskillen    0 
+ Portadown      3 Bangor         8 
+Home Wins: 8, Away Wins: 4, Draws: 0
+ Banbridge      1 Coleraine      5 
+ Ballymena      2 Belfast        4 
+ Newry          7 Enniskillen    2 
+ Portadown      9 Bangor         8 
+Home Wins: 10, Away Wins: 6, Draws: 0
